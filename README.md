@@ -1,4 +1,4 @@
-# Hi, I'm Keisuke Motokubota
+# Hi, I'm Kosuke Motokubota
 
 Snowflake Solutions Engineer based in Japan. Building demos, hands-on labs, and Streamlit apps on Snowflake AI Data Cloud.
 
