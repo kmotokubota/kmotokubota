@@ -31,7 +31,7 @@ Snowflake Solutions Engineer based in Japan. Building demos, hands-on labs, and 
 | [zero-to-snowflake-jp](https://github.com/kmotokubota/zero-to-snowflake-jp) | Zero to Snowflake ハンズオン日本語版 |
 | [fx_handson](https://github.com/kmotokubota/fx_handson) | FX data analysis & search app hands-on |
 | [pension_fund_esg_handson](https://github.com/kmotokubota/pension_fund_esg_handson) | Pension fund ESG report analysis |
-| [car_insurance_handson](https://github.com/kmotokubota/car_insrurance_handson) | Auto insurance data LLM hands-on |
+| [car_insurance_handson](https://github.com/kmotokubota/car_insurance_handson) | Auto insurance data LLM hands-on |
 | [mlops_snowflake_handson](https://github.com/kmotokubota/mlops_snowflake_handson) | Snowflake MLOps hands-on |
 
 ## Tech Stack
