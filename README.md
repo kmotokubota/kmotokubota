@@ -27,6 +27,10 @@ Snowflake Solutions Engineer based in Japan. Building demos, hands-on labs, and 
 | [sfguide-agentic-ai-for-asset-management-ja](https://github.com/sfc-gh-kmotokubota/sfguide-agentic-ai-for-asset-management-ja) | Cortex AI Agent for asset management (JP) |
 | [sfguide-quantitative-research-ai-functions-and-cortex-code-ja](https://github.com/sfc-gh-kmotokubota/sfguide-quantitative-research-ai-functions-and-cortex-code-ja) | Cortex AI quantitative research (JP) |
 | [snowflake-account-usage-dashboard](https://github.com/sfc-gh-kmotokubota/snowflake-account-usage-dashboard) | Account consumption monitoring dashboard |
+| [cursor-snowflake-notebooks](https://github.com/sfc-gh-kmotokubota/cursor-snowflake-notebooks) | Cursor IDE で Snowflake Notebooks を開発するワークフロー |
+| [build-an-ai-assistant-for-fsi-using-cortex-and-document-ai](https://github.com/sfc-gh-kmotokubota/build-an-ai-assistant-for-fsi-using-cortex-and-document-ai) | Cortex AI + Document AI で金融向け AI アシスタントを構築 |
+| [cortex-code-skills](https://github.com/sfc-gh-kmotokubota/cortex-code-skills) | Cortex Code CLI カスタムスキル集 |
+
 
 ### Hands-on Labs (Japanese)
 | Repo | Description |
@@ -37,6 +41,9 @@ Snowflake Solutions Engineer based in Japan. Building demos, hands-on labs, and 
 | [fx_handson](https://github.com/sfc-gh-kmotokubota/fx_handson) | FX data analysis & search app hands-on |
 | [pension_fund_esg_handson](https://github.com/sfc-gh-kmotokubota/pension_fund_esg_handson) | Pension fund ESG report analysis |
 | [car_insurance_handson](https://github.com/sfc-gh-kmotokubota/car_insurance_handson) | Auto insurance data LLM hands-on |
+| [etf-ai-handson](https://github.com/sfc-gh-kmotokubota/etf-ai-handson) | ETF AI ハンズオン - ポートフォリオマネージャー向け Cortex AI 2時間教材 |
+| [snowflake-ml-handson-jp](https://github.com/sfc-gh-kmotokubota/snowflake-ml-handson-jp) | Snowflake ML/MLOps ハンズオン（日本語版）- Feature Store, ML Jobs, Model Registry |
+| [coco-cli-handson-step7-9](https://github.com/sfc-gh-kmotokubota/coco-cli-handson-step7-9) | Cortex Code CLI ハンズオン Step 7-9（Skill / Streamlit / MCP） |
 | [mlops_snowflake_handson](https://github.com/sfc-gh-kmotokubota/mlops_snowflake_handson) | Snowflake MLOps hands-on |
 
 ## Tech Stack
